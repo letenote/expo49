@@ -19,7 +19,7 @@ exports[`<App /> create snapshoot 1`] = `
     dir="auto"
     id="welcomeText:1"
   >
-    Hello World!!
+    Hello World!
   </div>
   <div
     className="css-text-146c3p1"
@@ -27,7 +27,7 @@ exports[`<App /> create snapshoot 1`] = `
     dir="auto"
     id="welcomeText:2"
   >
-    Hello World!!!
+    Hello World!
   </div>
   <button
     className="css-view-175oi2r r-transitionProperty-1i6wzkk r-userSelect-lrvibr r-cursor-1loqt21 r-touchAction-1otgn73 r-backgroundColor-14sbq61 r-borderRadius-1jkafct"
